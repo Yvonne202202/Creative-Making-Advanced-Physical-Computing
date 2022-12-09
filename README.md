@@ -52,7 +52,9 @@ We did not use PCA9685 module in the end, but used two Arduino leonardo to drive
 
 After the plan change in week 8, our work became much smoother. This week is also the last week to make the device. We need to integrate the circuit part with the appearance part of the device, which also requires a lot of work. And we need to test at every stage to make sure that our device is giving the right feedback.
 
-This week's work is very complicated, and to a large extent, I need to cooperate with my team members to complete it. In addition to testing the device, we also assembled the roots, trunks, branches and flowers we designed. The process is also very tiring. Our circuit has a lot of servos to control, so the wires are very messy. I arranged the wires before placing the Arduino board in our paper planter. I think safety should also be considered, so I put electrical tape on all the POTS because we need to use a lot of tinfoil to wrap the device. We also needed to consider the placement of the circuit part. In the end, we chose to put a thick layer of foam board in the middle of the hard paper box, under which the circuit part was placed, and above which our device was placed. We also need some good supporting material to support the foam board and the roots. We chose to use the roll inside the discarded tin foil, which has good hardness and can be reused as waste.
+This week's work is very complicated, and to a large extent, I need to cooperate with my team members to complete it. In addition to testing the device, we also assembled the roots, trunks, branches and flowers we designed. The process is also very tiring. Our circuit has a lot of servos to control, so the wires are very messy. I arranged the wires before placing the Arduino board in our paper planter. I think safety should also be considered, so I put electrical tape on all the POTS because we need to use a lot of tinfoil to wrap the device. We also needed to consider the placement of the circuit part. In the end, we chose to put a thick layer of foam board in the middle of the hard paper box, under which the circuit part was placed, and above which our device was placed. We also need some good supporting material to support the foam board and the roots. We chose to use the roll inside the discarded tin foil, which has good hardness and can be reused as waste. For the tree branches, we latex kitchen paper onto tinfoil and then paint it with brown paint. This makes the texture of the branches very realistic.
+
+In the end we were very satisfied with the results of our device. In class on Friday, we brought the installation to the classroom, and our work was well received by many people.
 
 ![](https://github.com/Yvonne202202/Creative-Making-Advanced-Physical-Computing/blob/main/images/9-1.jpg)
 ![](https://github.com/Yvonne202202/Creative-Making-Advanced-Physical-Computing/blob/main/images/9-2.jpg)
@@ -61,13 +63,9 @@ This week's work is very complicated, and to a large extent, I need to cooperate
 ![](https://github.com/Yvonne202202/Creative-Making-Advanced-Physical-Computing/blob/main/images/9-5.jpg)
 ![](https://github.com/Yvonne202202/Creative-Making-Advanced-Physical-Computing/blob/main/images/9-6.jpg)
 ![](https://github.com/Yvonne202202/Creative-Making-Advanced-Physical-Computing/blob/main/images/9-7.jpg)
-![](https://github.com/Yvonne202202/Creative-Making-Advanced-Physical-Computing/blob/main/images/final2.jpg)
-![]()
-![]()
-![]()
-![]()
-![]()
+
+
 
 ## Final
 
-
+![](https://github.com/Yvonne202202/Creative-Making-Advanced-Physical-Computing/blob/main/images/final2.jpg)
