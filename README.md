@@ -62,7 +62,7 @@ This week's work is very complicated, and to a large extent, I need to cooperate
 
 In the end we were very satisfied with the results of our device. In class on Friday, we brought the installation to the classroom, and our work was well received by many people.
 
-
+![](https://github.com/Yvonne202202/Creative-Making-Advanced-Physical-Computing/blob/main/images/test4.pic.jpg)
 ![](https://github.com/Yvonne202202/Creative-Making-Advanced-Physical-Computing/blob/main/images/9-1.jpg)
 ![](https://github.com/Yvonne202202/Creative-Making-Advanced-Physical-Computing/blob/main/images/9-2.jpg)
 ![](https://github.com/Yvonne202202/Creative-Making-Advanced-Physical-Computing/blob/main/images/9-3.jpg)
