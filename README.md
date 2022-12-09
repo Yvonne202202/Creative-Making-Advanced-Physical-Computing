@@ -17,6 +17,8 @@ We identified two inputs as the pressure sensor and the acoustic sensor, but the
 
 Before going to the tutorial, we listed all feasible solutions, which was very helpful for us to communicate with the tutor. Matt shared some ideas with us and provided us with a lot of material. After talking to Matt, we had a lot more inspiration and a lot more purpose.
 
+I did some research online and after I got those sensors. After that, I ran separate module tests on the acoustic sensor, pressure sensor, servo and telesfit rod using the online test code. I started the circuit design, after making sure that the components were working properly.
+
 ![](https://github.com/Yvonne202202/Creative-Making-Advanced-Physical-Computing/blob/main/images/week7.png)
 ![](https://github.com/Yvonne202202/Creative-Making-Advanced-Physical-Computing/blob/main/images/7-2.png)
 
