@@ -19,6 +19,8 @@ Before going to the tutorial, we listed all feasible solutions, which was very h
 
 I did some research online and after I got those sensors. After that, I ran separate module tests on the acoustic sensor, pressure sensor, servo and telesfit rod using the online test code. I started the circuit design, after making sure that the components were working properly.
 
+We went to purchase some materials for the exterior of the device, like tin foil and some clay. We chose these materials because tinfoil makes our installation look more technological. And we're going to make mechanical branches that are as long as octopus tentacles. Due to the influence of the center of gravity, a heavy and strong root is needed to stabilize the branch. It's been a easy week. The next two weeks were very busy.
+
 ![](https://github.com/Yvonne202202/Creative-Making-Advanced-Physical-Computing/blob/main/images/week7.png)
 ![](https://github.com/Yvonne202202/Creative-Making-Advanced-Physical-Computing/blob/main/images/7-2.png)
 
