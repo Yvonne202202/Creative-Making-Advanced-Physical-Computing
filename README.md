@@ -5,13 +5,18 @@ https://www.youtube.com/watch?v=RirvhJJkZnI
 
 ## WEEK6
 
-In the first week of the project, my team members and I discussed the project plan. After several rounds of brainstorming, we finally decided on the project. We wanted to try to create a device that combines plants with machinery.
+In the first week of the project, my team members and I discussed the project plan. After several rounds of brainstorming, we finally decided on the project. We would like to try to create a device that combines plants with machinery.
+
+We identified two inputs as the pressure sensor and the acoustic sensor, but the other output besides servo has not been determined. Therefore, we made an appointment for the tutorial.
 
 ![](https://github.com/Yvonne202202/Creative-Making-Advanced-Physical-Computing/blob/main/images/week6-1.jpg)
 ![](https://github.com/Yvonne202202/Creative-Making-Advanced-Physical-Computing/blob/main/images/week6-2.jpg)
 ![](https://github.com/Yvonne202202/Creative-Making-Advanced-Physical-Computing/blob/main/images/User%20Experience%20Process.png)
 
 ## WEEK7
+
+Before going to the tutorial, we listed all feasible solutions, which was very helpful for us to communicate with the tutor. Matt shared some ideas with us and provided us with a lot of material. After talking to Matt, we had a lot more inspiration and a lot more purpose.
+
 ![](https://github.com/Yvonne202202/Creative-Making-Advanced-Physical-Computing/blob/main/images/week7.png)
 ![](https://github.com/Yvonne202202/Creative-Making-Advanced-Physical-Computing/blob/main/images/7-2.png)
 
